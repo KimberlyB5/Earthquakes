@@ -1,5 +1,5 @@
 
-![Earthquake Magnitude Scale](https://i.cbc.ca/1.1877835.1380772347!/httpImage/image.jpg_gen/derivatives/original_780/earthquake-magnitude.jpg)
+![Earthquake Magnitude Scale](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/Mag-Energy-Freq-sm.gif)
 
 
 
@@ -15,6 +15,7 @@ Python 3.10.4
 Anaconda3 4.13.0
     
 ##NOTE :  To install GeoPandas please execute the following commands in order at the Anaconda CMD Prompt:
+
         conda update --all
 
         once complete:
