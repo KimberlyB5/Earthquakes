@@ -5,7 +5,7 @@
 
 #Purpose
 
-This project explores the earthquake data from USGS.gov for January 1, 2022 to March 31, 2022.  USGS no longer uses the Richter Scale to determine earthquake strength.  The Richter Scale has been determined to be outdated.  Currently the USGS Moment Magnitude Scale, which takes into consideration the stiffness of the rocks, among other measures.     
+This project explores the earthquake data from USGS.gov for January 1, 2022 to March 31, 2022 with any magnitude 2.5 or greater.  USGS no longer uses the Richter Scale to determine earthquake strength.  The Richter Scale has been determined to be outdated.  Currently the USGS Moment Magnitude Scale, which takes into consideration the stiffness of the rocks, among other measures.     
 
 
 #Requirements
