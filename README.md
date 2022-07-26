@@ -9,24 +9,22 @@ This project explores the earthquake data from USGS.gov for January 1, 2022 to M
 
 Python 3.10.5 with 
      pandas, matplotlib, os, plotly, geopandas, jupyter notebook
-
 VS Code 1.68.1 with Jupyter extension
-
 Anaconda3 4.13.0
     
-    NOTE :  To install from the environment.yml at the Anaconda3 Command prompt:
+NOTE :  To install from the environment.yml at the Anaconda3 Command prompt:
 
-                    `conda env create -f environment.yml`
+`conda env create -f environment.yml`
 
-            once complete:
+once complete:
 
-                    `conda activate geo  (unless you have renamed the environment)`
+`conda activate geo`  (unless you have renamed the environment)
         
-            Check the environment: (Make sure geo is there)
+Check the environment: (Make sure geo is there)
         
-                    `conda env list`
+`conda env list`
 
-            Next choose the Geo environment and use VS Code to view.
+Next choose the Geo environment and use VS Code to view.
 
 
 
