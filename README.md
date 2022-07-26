@@ -35,7 +35,7 @@ Next choose the Geo environment and use VS Code to view.
 
 The following were included for this project:
 
-    1.  CSV data read by Pandas from  https://earthquake.usgs.gov/earthquakes/search/ from 1/1/2022 to 3/31/2022 for Earthquakes
+    1.  CSV data (read by Pandas) from  https://earthquake.usgs.gov/earthquakes/search/ from 1/1/2022 to 3/31/2022 for Earthquakes
     magnitude 2.5 and above, under Advanced options, Event Type choose Earthquake then CSV output and time - newest first.
 
     2.  Manipulate and clean data - Copy data file, Seperate date and time, drop NaN in all columns, verify data after dropped NaN
