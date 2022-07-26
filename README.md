@@ -8,7 +8,7 @@ This project explores the earthquake data from USGS.gov for January 1, 2022 to M
 **Requirements**
 
 Python 3.10.5 with 
-     pandas, matplotlib, os, plotly, geopandas, jupyter notebook
+     geopandas, matplotlib, os, pandas, plotly
 VS Code 1.68.1 with Jupyter extension
 Anaconda3 4.13.0
     
@@ -18,7 +18,7 @@ NOTE :  To install from the environment.yml at the Anaconda3 Command prompt:
 
 once complete:
 
-`conda activate geo`  (unless you have renamed the environment)
+`conda activate geo`
         
 Check the environment: (Make sure geo is there)
         
@@ -26,14 +26,11 @@ Check the environment: (Make sure geo is there)
 
 Next choose the Geo environment and use VS Code to view.
 
-
-
-#To Use:
+**To Use:**
 
 1. Copy repo Earthquake from github.com   https://github.com/KimberlyB5/Earthquakes.git
 2. Open Anaconda3 and select the geo environment (made above) and choose VS Code to open the downloaded Earthquake repo.
 3. Choose Run All to run all the cells.
-
 
 The following were included for this project:
     1.  CSV data read by Pandas from  https://earthquake.usgs.gov/earthquakes/search/ from 1/1/2022 to 3/31/2022 for Earthquakes
