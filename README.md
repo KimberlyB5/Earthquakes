@@ -7,8 +7,7 @@ This project explores the earthquake data from USGS.gov for January 1, 2022 to M
 
 **Requirements**
 
-Python 3.10.5 with 
-     geopandas, matplotlib, os, pandas, plotly
+Python 3.10.5 with geopandas, matplotlib, os, pandas, plotly
 VS Code 1.68.1 with Jupyter extension
 Anaconda3 4.13.0
     
